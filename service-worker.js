@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/react-monopoly-board/precache-manifest.ab44bf5d3670b4a10fcdc11d683b73c9.js"
+  "/react-monopoly-board/precache-manifest.6ffa8952ab6fe96db2477eeb4688b44b.js"
 );
 
 self.addEventListener('message', (event) => {
