@@ -234,21 +234,21 @@ body {
 }
 
 .square.jail {
-  background-image: url("/prisoner.svg");
+  background-image: url("./images/prisoner.svg");
   background-repeat: no-repeat;
   background-size: cover;
   opacity: 0.5;
 }
 
 .square.go-to-jail {
-  background-image: url("/policeman.svg");
+  background-image: url("./images/policeman.svg");
   background-repeat: no-repeat;
   background-size: cover;
 }
 
 .square.central-park .icon {
   flex-basis: 90%;
-  background-image: url("/central_park.jpg");
+  background-image: url("./images/central_park.jpg");
   background-repeat: no-repeat;
   background-size: cover;
 }
