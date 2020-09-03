@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/react-monopoly-board/static/css/main.9eb9d71f.chunk.css",
+    "main.js": "/react-monopoly-board/static/js/main.c63eedd9.chunk.js",
+    "main.js.map": "/react-monopoly-board/static/js/main.c63eedd9.chunk.js.map",
+    "runtime-main.js": "/react-monopoly-board/static/js/runtime-main.52c43c5d.js",
+    "runtime-main.js.map": "/react-monopoly-board/static/js/runtime-main.52c43c5d.js.map",
+    "static/js/2.b15989b3.chunk.js": "/react-monopoly-board/static/js/2.b15989b3.chunk.js",
+    "static/js/2.b15989b3.chunk.js.map": "/react-monopoly-board/static/js/2.b15989b3.chunk.js.map",
+    "index.html": "/react-monopoly-board/index.html",
+    "precache-manifest.ab44bf5d3670b4a10fcdc11d683b73c9.js": "/react-monopoly-board/precache-manifest.ab44bf5d3670b4a10fcdc11d683b73c9.js",
+    "service-worker.js": "/react-monopoly-board/service-worker.js",
+    "static/css/main.9eb9d71f.chunk.css.map": "/react-monopoly-board/static/css/main.9eb9d71f.chunk.css.map",
+    "static/js/2.b15989b3.chunk.js.LICENSE.txt": "/react-monopoly-board/static/js/2.b15989b3.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.52c43c5d.js",
+    "static/js/2.b15989b3.chunk.js",
+    "static/css/main.9eb9d71f.chunk.css",
+    "static/js/main.c63eedd9.chunk.js"
+  ]
+}
