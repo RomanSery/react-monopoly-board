@@ -18,7 +18,11 @@ export default function GameBoard() {
         })}
 
 
-        <div className="center-square square"></div>
+        <div className="center-square square">
+          <div className="center-txt">
+            <a href="https://www.coderdreams.com/">Visit CoderDreams to learn more</a>
+          </div>
+        </div>
       </div>
     </React.Fragment>
   );

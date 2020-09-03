@@ -433,4 +433,13 @@ body {
   grid-row-end: 11;
   grid-column-start: 2;
   grid-column-end: 11;
+
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+}
+
+.center-square .center-txt {
+  font-weight: 1000;
+  width: 100%;
 }
